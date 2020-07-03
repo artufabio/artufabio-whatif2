@@ -124,10 +124,11 @@ body {
 
  /*sixth page*/
 .grid_section{
+	width: 100%;
     display: grid;
     gap:25px;
     grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
-    padding: 25px;
+/*     padding: 25px; */
 }
 
 .box > img {
