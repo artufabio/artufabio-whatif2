@@ -146,6 +146,8 @@ body {
 /*seventh page*/
 .borsa-container{
 	height: 100vh;
+	display: flex;
+	align-items: center;
 }
 .borsa-container > img {
 	height: 100%;
