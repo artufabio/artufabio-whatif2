@@ -125,9 +125,9 @@ body {
  /*sixth page*/
 .grid_section{
     display: grid;
-    gap:20px;
+    gap:25px;
     grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
-    padding: 50px;
+    padding: 25px;
 }
 
 .box > img {
@@ -269,7 +269,7 @@ footer{
 		width: 90%
 	}
 	.notes-container{
-		width: 30%;
+		width: 40%;
 	}
 	.footer-text{
 		font-size: .8em;
