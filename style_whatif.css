@@ -258,11 +258,10 @@ footer{
 		font-size: .9em;
 	}
 
-	/*.grid-section{
+	.grid-section{
 		padding: 0;
-		column-gap: 0;
 	}
-*/
+
 	.borsa-container > img{
 		height: 80%;
 	}
