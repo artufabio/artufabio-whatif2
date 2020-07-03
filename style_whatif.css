@@ -271,7 +271,7 @@ footer{
 		width: 90%
 	}
 	.notes-container{
-		width: 40%;
+		width: 35%;
 	}
 	.footer-text{
 		font-size: .8em;
@@ -295,6 +295,6 @@ footer{
 		width: 100%;
 	}
 	.notes-container{
-		width: 35%;
+		width: 50%;
 	}
 }
