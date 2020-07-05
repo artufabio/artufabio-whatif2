@@ -233,6 +233,7 @@ footer{
 
 .rights{
 	margin-left: auto;
+	text-align: right;
 }
 
 
@@ -314,5 +315,8 @@ footer{
 	
 	.notes-container{
 		width: 50%;
+	}
+	.footer-text{
+		margin: 0 5px;
 	}
 }
